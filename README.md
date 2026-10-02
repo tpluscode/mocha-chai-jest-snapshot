@@ -54,7 +54,7 @@ Snapshot Summary
 ```
 
 ```js
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
 
 exports[`foo 1`] = `
 Object {
